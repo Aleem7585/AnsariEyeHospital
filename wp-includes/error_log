@@ -1,0 +1,4 @@
+[27-Jul-2018 15:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/ansariey/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-includes/locale.php on line 10

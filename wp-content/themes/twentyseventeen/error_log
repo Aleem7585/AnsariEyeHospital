@@ -1,0 +1,100 @@
+[19-Jul-2018 22:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Jul-2018 04:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Jul-2018 09:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[24-Jul-2018 00:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Jul-2018 00:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2018 14:21:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Jul-2018 19:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Sep-2018 01:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[30-Sep-2018 08:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 10:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 12:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 16:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 18:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 19:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 21:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 23:21:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 01:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 16:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Oct-2018 10:51:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[24-Oct-2018 11:00:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[24-Oct-2018 12:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[29-Oct-2018 06:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[31-Oct-2018 22:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 22:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 22:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/twentyseventeen/comments.php on line 21

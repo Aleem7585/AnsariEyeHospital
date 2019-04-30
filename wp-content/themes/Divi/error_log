@@ -1,0 +1,24 @@
+[09-Jun-2018 07:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/index.php on line 1
+[24-Jul-2018 00:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/index.php on line 1
+[24-Jul-2018 00:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/index.php on line 1
+[12-Aug-2018 03:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/404.php on line 1
+[02-Dec-2018 07:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/404.php on line 1
+[04-Dec-2018 01:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/ansariey/public_html/wp-content/themes/Divi/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/ansariey/public_html/wp-content/themes/Divi/404.php on line 1
